@@ -11,7 +11,7 @@ package com.mes.learning;
  */
 public class LearningOne {
     public static void main(String[] args) {
-        System.out.println("The quick fox jump over the lazy dog");
+        System.out.println("The quick fox jump over the lazy dog!!!");
     }
     
 }
